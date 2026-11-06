@@ -26,4 +26,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Kirtikumar78/my-dsa-solutions/tree/master/0142-linked-list-cycle-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kirtikumar78/my-dsa-solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kirtikumar78/my-dsa-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kirtikumar78/my-dsa-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

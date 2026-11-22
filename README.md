@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Kirtikumar78/my-dsa-solutions/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Kirtikumar78/my-dsa-solutions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +39,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kirtikumar78/my-dsa-solutions/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kirtikumar78/my-dsa-solutions/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kirtikumar78/my-dsa-solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kirtikumar78/my-dsa-solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

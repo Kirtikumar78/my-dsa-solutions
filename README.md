@@ -56,4 +56,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Kirtikumar78/my-dsa-solutions/tree/master/0066-plus-one) |
+| [0978-valid-mountain-array](https://github.com/Kirtikumar78/my-dsa-solutions/tree/master/0978-valid-mountain-array) |
 <!---LeetCode Topics End-->

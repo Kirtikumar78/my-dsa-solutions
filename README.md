@@ -56,5 +56,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Kirtikumar78/my-dsa-solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Kirtikumar78/my-dsa-solutions/tree/master/0078-subsets) |
 | [0978-valid-mountain-array](https://github.com/Kirtikumar78/my-dsa-solutions/tree/master/0978-valid-mountain-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Kirtikumar78/my-dsa-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Kirtikumar78/my-dsa-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
